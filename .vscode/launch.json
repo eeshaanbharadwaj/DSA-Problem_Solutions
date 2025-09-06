@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/HP/Desktop/dsa/lessgo-dev/DSA-Problem_Solutions/Arrays",
-      "program": "c:/Users/HP/Desktop/dsa/lessgo-dev/DSA-Problem_Solutions/Arrays/build/Debug/outDebug",
+      "cwd": "c:/Users/HP/Desktop/dsa/lessgo-dev/DSA-Problem_Solutions/Arrays/Q1- Max and Min of an Array",
+      "program": "c:/Users/HP/Desktop/dsa/lessgo-dev/DSA-Problem_Solutions/Arrays/Q1- Max and Min of an Array/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
