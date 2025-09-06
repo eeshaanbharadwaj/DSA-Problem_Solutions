@@ -7,10 +7,11 @@ int main(){
     int size = sizeof(arr)/sizeof(int);
 
     int largest = INT_MIN;
+    int smallest = INT_MAX;
     for(int i=0; i<size; i++){
-        if(arr[i]>largest){
-            largest = arr[i];
-        }
+        largest = max(arr[i], largest);
+        smallest = min(arr[i], smallest);
     }
     cout<<"Largest:"<<largest;
+    cout<<"Smallest:"<<smallest;
 }
