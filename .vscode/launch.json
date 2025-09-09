@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/HP/Desktop/dsa/lessgo-dev/DSA-Problem_Solutions/Arrays/Q4- Single Number",
-      "program": "c:/Users/HP/Desktop/dsa/lessgo-dev/DSA-Problem_Solutions/Arrays/Q4- Single Number/build/Debug/outDebug",
+      "cwd": "c:/Users/HP/Desktop/dsa/lessgo-dev/DSA-Problem_Solutions/Arrays/Q7 - Majority element",
+      "program": "c:/Users/HP/Desktop/dsa/lessgo-dev/DSA-Problem_Solutions/Arrays/Q7 - Majority element/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
