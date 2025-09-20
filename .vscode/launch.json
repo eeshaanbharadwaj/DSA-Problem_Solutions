@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/HP/Desktop/dsa/lessgo-dev/DSA-Problem_Solutions/Arrays/Q13- Painter's Partition Problem",
-      "program": "c:/Users/HP/Desktop/dsa/lessgo-dev/DSA-Problem_Solutions/Arrays/Q13- Painter's Partition Problem/build/Debug/outDebug",
+      "cwd": "c:/Users/HP/Desktop/dsa/lessgo-dev/DSA-Problem_Solutions/Sorting Techniques",
+      "program": "c:/Users/HP/Desktop/dsa/lessgo-dev/DSA-Problem_Solutions/Sorting Techniques/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
