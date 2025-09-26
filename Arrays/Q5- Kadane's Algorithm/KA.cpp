@@ -12,6 +12,6 @@ class Solution {
                     currsum = 0;
                 }
             }
-            return maxsum;a
+            return maxsum;
         }
     };
