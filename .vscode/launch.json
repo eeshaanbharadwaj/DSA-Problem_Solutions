@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/HP/Desktop/dsa/lessgo-dev/DSA-Problem_Solutions/2D- Arrays",
-      "program": "c:/Users/HP/Desktop/dsa/lessgo-dev/DSA-Problem_Solutions/2D- Arrays/build/Debug/outDebug",
+      "cwd": "c:/Users/HP/Desktop/dsa/lessgo-dev/DSA-Problem_Solutions/2D- Arrays/Q3 - Max  sum of a Row and Column",
+      "program": "c:/Users/HP/Desktop/dsa/lessgo-dev/DSA-Problem_Solutions/2D- Arrays/Q3 - Max  sum of a Row and Column/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
